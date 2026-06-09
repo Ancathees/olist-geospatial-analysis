@@ -1,0 +1,9 @@
+# Normalize line endings to LF on commit, convert to OS default on checkout
+* text=auto
+
+# Binary files — do not touch line endings
+*.pbix binary
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.html binary
